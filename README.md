@@ -45,7 +45,7 @@ Running the Code:
 Clone the repository:
 bash
 Copy
-git clone https://github.com/your-username/ai-powered-live-translation.git
+git clone https://github.com/Utkarshm1/Freespeech.git
 cd ai-powered-live-translation
 Open the notebook in Google Colab or Jupyter Notebook.
 
